@@ -1,0 +1,52 @@
+
+.textnazag {font-family: Georgia; font-size: 50px; color:#ffffff; word-spacing: 5px; padding: 200px 0px 30px 10px;
+}
+
+.hillel {font-family: Times New Roman; font-size: 30px; color: #228865; word-spacing: 5px; text-align: center; 
+
+background-color: #e6e6fa
+}
+
+.teall {padding: 20px 200px 30px 200px; background-color: #228865; color: #ffffff
+}
+
+.colortext {font-weight: bold
+}
+
+.colortext1 {font-style: oblique
+}
+
+.colortext2 {text-decoration: underline
+}
+
+.colortext3 {font-family: Georgia; font-size: 24px; font-weight: bolder; padding: none
+}
+
+.colortext4 {vertical-align: super; font-size: 10px 
+}
+
+.colortext5 {font-family: Times New Roman; font-size: 17px; text-decoration: underline; color:#228865
+}
+
+.hr {color: #000000 ; height: 1px
+}
+
+.colortext6 {font-weight: small; font-size: 15px;  color: gray 
+}
+
+.num {padding: 0px 0px 30px 30px;
+}
+
+.break {padding: 0px 0px 10px 0px;
+}
+
+.foo {text-align: center; color:#228865
+}
+
+.latest-works {background-color: #e6e6fa
+}
+
+
+
+
+
